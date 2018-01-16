@@ -1,0 +1,24 @@
+{
+  "name": "react-svg-animation",
+  "version": "1.0.0",
+  "description": "React component to make drawing animation with svg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubcent/react-svg-animation.git"
+  },
+  "keywords": [
+    "react",
+    "svg",
+    "animation"
+  ],
+  "author": "Dmitry Bondarchuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ubcent/react-svg-animation/issues"
+  },
+  "homepage": "https://github.com/ubcent/react-svg-animation#readme"
+}
